@@ -19,14 +19,14 @@ It is a snap when you don't want to filter out but instead highlight a particula
 
 ![Snap1](https://github.com/VasuVaishnav/Pizza-Data-Analysis/blob/master/snip3.png) 
 
-In this snap we are seeing the details for the Biggest bubble highlighted (For NY). Similary we can do for other states as well.
+In this snap we are seeing the details for the Biggest bubble highlighted (For **NY**). Similary we can do for other states as well.
 
 In general, we use visualization tools such as Tableau or Power BI because they are far more easy and provide so many options for visualisation and generally don't need coding skills. 
 All these visualization were done on Tableau.
 
 ---
 
-NOTE: In order to plit similar graphs in python we can use geopandas, plotly libraries. However, these libraries might be a little overwhelming but are not harder to grasp. Specially GeoPandas.
+**NOTE:** _In order to plot similar graphs in python we can use geopandas, plotly libraries. However, these libraries might be a little overwhelming but are not harder to grasp. Specially GeoPandas._
 
 ---
 ### Thanks :)
